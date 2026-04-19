@@ -23,8 +23,6 @@
 
 ## About Me
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mongodb,express,tailwind,redux,postgres,mysql,firebase,git,github,vercel,vite,postman&perline=8" />
-
 <br/>
 
 ![Role](https://img.shields.io/badge/Role-Full--Stack_Engineer-6C63FF?style=for-the-badge)
@@ -40,7 +38,9 @@
 ![Peak](https://img.shields.io/badge/Peak_Hours-After_Midnight-181717?style=for-the-badge)
 
 ---
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mongodb,express,tailwind,redux,postgres,mysql,firebase,git,github,vercel,vite,postman&perline=8" />
 
+---
 ## Currently
 
 ![Building](https://img.shields.io/badge/BUILDING-Scalable_SaaS_Platforms-6C63FF?style=for-the-badge&labelColor=1a1a2e)
