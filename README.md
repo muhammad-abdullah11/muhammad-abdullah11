@@ -28,10 +28,15 @@
 <br/>
 
 ![Role](https://img.shields.io/badge/Role-Full--Stack_Engineer-6C63FF?style=for-the-badge)
+<br/>
 ![Based](https://img.shields.io/badge/Based-Faisalabad,_Pakistan-00D4AA?style=for-the-badge)
+<br/>
 ![Stack](https://img.shields.io/badge/Stack-MERN_%2B_Next.js_%2B_TypeScript-007ACC?style=for-the-badge)
+<br/>
 ![Focus](https://img.shields.io/badge/Focus-Scalable_SaaS_%26_Clean_Architecture-FF6C37?style=for-the-badge)
+<br/>
 ![Style](https://img.shields.io/badge/Code_Style-Clean_%26_Maintainable_over_Clever-4ea94b?style=for-the-badge)
+<br/>
 ![Peak](https://img.shields.io/badge/Peak_Hours-After_Midnight-181717?style=for-the-badge)
 
 ---
