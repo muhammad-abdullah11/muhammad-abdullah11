@@ -21,109 +21,66 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D4AA&height=3&width=600" />
-</div>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mongodb,express,tailwind,redux,postgres,mysql,firebase,git,github,vercel,vite,postman&perline=8" />
 
 <br/>
 
-<div align="center">
-
-🧑‍💻 &nbsp; **Muhammad Abdullah** &nbsp;·&nbsp; 🌍 Faisalabad, Pakistan &nbsp;·&nbsp; 💼 Full-Stack Engineer
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════╗
-║  🎯  Role      →  Full-Stack Engineer                      ║
-║  🌍  Based     →  Faisalabad, Punjab, Pakistan 🇵🇰          ║
-║  🔭  Building  →  Scalable SaaS · MERN · Next.js Apps      ║
-║  🌱  Learning  →  System Design · Clean Architecture        ║
-║  🧠  Believes  →  "Clean code over clever code — always"   ║
-║  🌙  Peak hrs  →  Most productive after midnight 🦉         ║
-║  ⚡  Fun fact  →  I debug in my dreams 💭                   ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-</div>
+![Role](https://img.shields.io/badge/Role-Full--Stack_Engineer-6C63FF?style=for-the-badge)
+![Based](https://img.shields.io/badge/Based-Faisalabad,_Pakistan-00D4AA?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Stack-MERN_%2B_Next.js_%2B_TypeScript-007ACC?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Scalable_SaaS_%26_Clean_Architecture-FF6C37?style=for-the-badge)
+![Style](https://img.shields.io/badge/Code_Style-Clean_%26_Maintainable_over_Clever-4ea94b?style=for-the-badge)
+![Peak](https://img.shields.io/badge/Peak_Hours-After_Midnight-181717?style=for-the-badge)
 
 ---
 
-## 🚀 Currently
+## Currently
 
-<div align="center">
-
-### 🔭 Building
-![SaaS](https://img.shields.io/badge/🏗_Scalable_SaaS_Platforms-6C63FF?style=for-the-badge&logoColor=white)
-![APIs](https://img.shields.io/badge/⚡_Production_REST_APIs-00D4AA?style=for-the-badge&logoColor=white)
-![Auth](https://img.shields.io/badge/🔐_Auth_Systems_(JWT_+_NextAuth)-FF6C37?style=for-the-badge&logoColor=white)
-![MongoDB](https://img.shields.io/badge/🍃_Optimized_MongoDB_Schemas-4ea94b?style=for-the-badge&logoColor=white)
-
-### 🌱 Learning
-![System Design](https://img.shields.io/badge/🧩_Advanced_System_Design-6C63FF?style=for-the-badge&logoColor=white)
-![Architecture](https://img.shields.io/badge/🏛_Clean_%26_Hexagonal_Architecture-007ACC?style=for-the-badge&logoColor=white)
-![Scaling](https://img.shields.io/badge/📈_Backend_Scaling_%26_Caching-FF6C37?style=for-the-badge&logoColor=white)
-
-### 🤝 Open To
-![Collab](https://img.shields.io/badge/🤝_SaaS_Collaborations-00D4AA?style=for-the-badge&logoColor=white)
-![OSS](https://img.shields.io/badge/🌐_Open_Source_Contributions-181717?style=for-the-badge&logoColor=white)
-![Freelance](https://img.shields.io/badge/💼_Freelance_Projects-6C63FF?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## 📊 Skill Proficiency
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mongodb,express,tailwind,redux,postgres,mysql,firebase,git&perline=6" />
-
-<br/><br/>
-
-**Frontend**&emsp;
-`Next.js ████████████████████ 95%` &emsp;
-`React ███████████████████░ 92%` &emsp;
-`TypeScript ██████████████████░░ 88%` &emsp;
-`TailwindCSS ███████████████████░ 90%`
+![Building](https://img.shields.io/badge/BUILDING-Scalable_SaaS_Platforms-6C63FF?style=for-the-badge&labelColor=1a1a2e)
+![Building](https://img.shields.io/badge/BUILDING-Production_REST_APIs-6C63FF?style=for-the-badge&labelColor=1a1a2e)
+![Building](https://img.shields.io/badge/BUILDING-JWT_%2B_NextAuth_Systems-6C63FF?style=for-the-badge&labelColor=1a1a2e)
+![Building](https://img.shields.io/badge/BUILDING-Optimized_MongoDB_Schemas-6C63FF?style=for-the-badge&labelColor=1a1a2e)
 
 <br/>
 
-**Backend**&emsp;
-`Node.js █████████████████░░░ 85%` &emsp;
-`Express ████████████████░░░░ 82%` &emsp;
-`MongoDB ██████████████████░░ 87%` &emsp;
-`REST API ███████████████████░ 90%`
+![Learning](https://img.shields.io/badge/LEARNING-Advanced_System_Design-00D4AA?style=for-the-badge&labelColor=0a2a1e)
+![Learning](https://img.shields.io/badge/LEARNING-Clean_%26_Hexagonal_Architecture-00D4AA?style=for-the-badge&labelColor=0a2a1e)
+![Learning](https://img.shields.io/badge/LEARNING-Backend_Scaling_%26_Caching-00D4AA?style=for-the-badge&labelColor=0a2a1e)
 
 <br/>
 
-**Growing**&emsp;
-`System Design ██████████████░░░░░░ 70%` &emsp;
-`PostgreSQL ████████████░░░░░░░░ 65%` &emsp;
-`Docker 🔜 Learning`
-
-</div>
+![Open](https://img.shields.io/badge/OPEN_TO-SaaS_Collaborations-FF6C37?style=for-the-badge&labelColor=2a1000)
+![Open](https://img.shields.io/badge/OPEN_TO-Open_Source_Contributions-FF6C37?style=for-the-badge&labelColor=2a1000)
+![Open](https://img.shields.io/badge/OPEN_TO-Freelance_Projects-FF6C37?style=for-the-badge&labelColor=2a1000)
 
 ---
 
-## ⚡ Quick Facts
+## Skill Proficiency
 
-<div align="center">
+![Next.js](https://img.shields.io/badge/Next.js-95%25-black?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-92%25-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-88%25-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-90%25-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-85%25-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-82%25-404d59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-87%25-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-80%25-593d88?style=flat-square&logo=redux&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-65%25-316192?style=flat-square&logo=postgresql&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-70%25-6C63FF?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-![Fact1](https://img.shields.io/badge/🏗_Design_before_I_code-Architecture_First-6C63FF?style=for-the-badge)
-![Fact2](https://img.shields.io/badge/🔐_Auth_%26_data_safety_always-Security_Minded-FF6C37?style=for-the-badge)
-![Fact3](https://img.shields.io/badge/📦_Clean_reusable_modules-Modular_Code-00D4AA?style=for-the-badge)
-![Fact4](https://img.shields.io/badge/🌙_Most_productive_after_midnight-Night_Owl-181717?style=for-the-badge)
-![Fact5](https://img.shields.io/badge/🚀_Seamless_CI%2FCD_pipelines-Ships_on_Vercel-000000?style=for-the-badge)
-![Fact6](https://img.shields.io/badge/💭_I_debug_in_my_dreams-Fun_Fact-007ACC?style=for-the-badge)
+---
 
-</div>
+## Dev Identity
+
+![Fact1](https://img.shields.io/badge/Architecture_First-Design_before_code-6C63FF?style=for-the-badge)
+![Fact2](https://img.shields.io/badge/Security_Minded-Auth_%26_data_safety_always-FF6C37?style=for-the-badge)
+![Fact3](https://img.shields.io/badge/Modular_Code-Clean_reusable_modules-00D4AA?style=for-the-badge)
+![Fact4](https://img.shields.io/badge/Night_Owl-Most_productive_after_midnight-181717?style=for-the-badge)
+![Fact5](https://img.shields.io/badge/Ships_on_Vercel-Seamless_CI%2FCD-000000?style=for-the-badge)
+![Fact6](https://img.shields.io/badge/Fun_Fact-I_debug_in_my_dreams-007ACC?style=for-the-badge)
 
 ---
 
