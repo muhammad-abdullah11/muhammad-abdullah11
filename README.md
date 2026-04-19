@@ -24,17 +24,14 @@
 ## 👨‍💻 About Me
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D4AA&height=3&width=600" />
+</div>
 
-| 👤 | |
-|---|---|
-| 🧑‍💻 **Name** | Muhammad Abdullah |
-| 🌍 **Location** | Faisalabad, Punjab, Pakistan 🇵🇰 |
-| 💼 **Role** | Full-Stack Engineer |
-| 🎯 **Focus** | Scalable SaaS · Clean Architecture · Production Code |
-| 🧠 **Philosophy** | *"Clean code over clever code — always."* |
-| ⚡ **Fun Fact** | I debug in my dreams 💭 |
-| 📬 **Email** | abdullahworld111@gmail.com |
-| 🔗 **LinkedIn** | [linkedin.com/in/mabdullah555](https://linkedin.com/in/mabdullah555) |
+<br/>
+
+<div align="center">
+
+🧑‍💻 &nbsp; **Muhammad Abdullah** &nbsp;·&nbsp; 🌍 Faisalabad, Pakistan &nbsp;·&nbsp; 💼 Full-Stack Engineer
 
 </div>
 
@@ -42,38 +39,41 @@
 
 <div align="center">
 
-### 🧩 My Developer DNA
-
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-404d59?style=flat-square&logo=express)
-![Redux](https://img.shields.io/badge/-Redux-593d88?style=flat-square&logo=redux&logoColor=white)
+```
+╔════════════════════════════════════════════════════════════╗
+║  🎯  Role      →  Full-Stack Engineer                      ║
+║  🌍  Based     →  Faisalabad, Punjab, Pakistan 🇵🇰          ║
+║  🔭  Building  →  Scalable SaaS · MERN · Next.js Apps      ║
+║  🌱  Learning  →  System Design · Clean Architecture        ║
+║  🧠  Believes  →  "Clean code over clever code — always"   ║
+║  🌙  Peak hrs  →  Most productive after midnight 🦉         ║
+║  ⚡  Fun fact  →  I debug in my dreams 💭                   ║
+╚════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🚀 What I'm Up To
+## 🚀 Currently
 
 <div align="center">
 
-| 🔭 Currently Building | 🌱 Currently Learning |
-|---|---|
-| ![Next.js](https://img.shields.io/badge/-Next.js%20Apps-black?style=flat-square&logo=next.js) Scalable SaaS platforms | ![System Design](https://img.shields.io/badge/-System%20Design-6C63FF?style=flat-square&logo=azuredevops&logoColor=white) Advanced patterns |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript%20APIs-007ACC?style=flat-square&logo=typescript&logoColor=white) Production-grade REST APIs | ![Architecture](https://img.shields.io/badge/-Clean%20Architecture-00D4AA?style=flat-square&logo=buffer&logoColor=white) Hexagonal & DDD |
-| ![MongoDB](https://img.shields.io/badge/-MongoDB%20Schemas-4ea94b?style=flat-square&logo=mongodb&logoColor=white) Optimized data layers | ![Performance](https://img.shields.io/badge/-Performance%20Tuning-FF6C37?style=flat-square&logo=speedtest&logoColor=white) Caching & scaling |
+### 🔭 Building
+![SaaS](https://img.shields.io/badge/🏗_Scalable_SaaS_Platforms-6C63FF?style=for-the-badge&logoColor=white)
+![APIs](https://img.shields.io/badge/⚡_Production_REST_APIs-00D4AA?style=for-the-badge&logoColor=white)
+![Auth](https://img.shields.io/badge/🔐_Auth_Systems_(JWT_+_NextAuth)-FF6C37?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/🍃_Optimized_MongoDB_Schemas-4ea94b?style=for-the-badge&logoColor=white)
 
-<br/>
+### 🌱 Learning
+![System Design](https://img.shields.io/badge/🧩_Advanced_System_Design-6C63FF?style=for-the-badge&logoColor=white)
+![Architecture](https://img.shields.io/badge/🏛_Clean_%26_Hexagonal_Architecture-007ACC?style=for-the-badge&logoColor=white)
+![Scaling](https://img.shields.io/badge/📈_Backend_Scaling_%26_Caching-FF6C37?style=for-the-badge&logoColor=white)
 
-| 🤝 Open to Collaborate | 💬 Ask Me About |
-|---|---|
-| ![SaaS](https://img.shields.io/badge/-SaaS%20Products-6C63FF?style=flat-square&logo=shopify&logoColor=white) Real-world product dev | ![Next.js](https://img.shields.io/badge/-Next.js%20App%20Router-black?style=flat-square&logo=next.js) Server Actions & SSR |
-| ![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=flat-square&logo=github) Contributions welcome | ![Auth](https://img.shields.io/badge/-JWT%20%26%20NextAuth-000000?style=flat-square&logo=jsonwebtokens) Auth flows |
-| ![Web Apps](https://img.shields.io/badge/-Performance%20Apps-00D4AA?style=flat-square&logo=vercel&logoColor=white) Speed-focused builds | ![MongoDB](https://img.shields.io/badge/-MongoDB%20Design-4ea94b?style=flat-square&logo=mongodb&logoColor=white) Schema & indexing |
+### 🤝 Open To
+![Collab](https://img.shields.io/badge/🤝_SaaS_Collaborations-00D4AA?style=for-the-badge&logoColor=white)
+![OSS](https://img.shields.io/badge/🌐_Open_Source_Contributions-181717?style=for-the-badge&logoColor=white)
+![Freelance](https://img.shields.io/badge/💼_Freelance_Projects-6C63FF?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -83,14 +83,30 @@
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-95%25-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-92%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-88%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-87%25-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-85%25-404d59?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-90%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-70%25-6C63FF?style=for-the-badge&logo=azuredevops&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mongodb,express,tailwind,redux,postgres,mysql,firebase,git&perline=6" />
+
+<br/><br/>
+
+**Frontend**&emsp;
+`Next.js ████████████████████ 95%` &emsp;
+`React ███████████████████░ 92%` &emsp;
+`TypeScript ██████████████████░░ 88%` &emsp;
+`TailwindCSS ███████████████████░ 90%`
+
+<br/>
+
+**Backend**&emsp;
+`Node.js █████████████████░░░ 85%` &emsp;
+`Express ████████████████░░░░ 82%` &emsp;
+`MongoDB ██████████████████░░ 87%` &emsp;
+`REST API ███████████████████░ 90%`
+
+<br/>
+
+**Growing**&emsp;
+`System Design ██████████████░░░░░░ 70%` &emsp;
+`PostgreSQL ████████████░░░░░░░░ 65%` &emsp;
+`Docker 🔜 Learning`
 
 </div>
 
@@ -100,12 +116,12 @@
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| 🏗️ **Architecture First** | 🧪 **Test Before Ship** | 🔐 **Security Minded** |
-| I design before I code | I validate logic rigorously | Auth & data safety always |
-| 📦 **Modular Code** | 🚀 **Deploy on Vercel** | 🌙 **Night Owl Coder** |
-| Clean, reusable modules | Seamless CI/CD pipelines | Most productive after midnight |
+![Fact1](https://img.shields.io/badge/🏗_Design_before_I_code-Architecture_First-6C63FF?style=for-the-badge)
+![Fact2](https://img.shields.io/badge/🔐_Auth_%26_data_safety_always-Security_Minded-FF6C37?style=for-the-badge)
+![Fact3](https://img.shields.io/badge/📦_Clean_reusable_modules-Modular_Code-00D4AA?style=for-the-badge)
+![Fact4](https://img.shields.io/badge/🌙_Most_productive_after_midnight-Night_Owl-181717?style=for-the-badge)
+![Fact5](https://img.shields.io/badge/🚀_Seamless_CI%2FCD_pipelines-Ships_on_Vercel-000000?style=for-the-badge)
+![Fact6](https://img.shields.io/badge/💭_I_debug_in_my_dreams-Fun_Fact-007ACC?style=for-the-badge)
 
 </div>
 
