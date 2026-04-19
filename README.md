@@ -43,9 +43,7 @@
 ---
 ## Currently
 
-![Building]
-<br/>
-.(https://img.shields.io/badge/BUILDING-Scalable_SaaS_Platforms-6C63FF?style=for-the-badge&labelColor=1a1a2e)
+![Building].(https://img.shields.io/badge/BUILDING-Scalable_SaaS_Platforms-6C63FF?style=for-the-badge&labelColor=1a1a2e)
 (https://img.shields.io/badge/BUILDING-Production_REST_APIs-6C63FF?style=for-the-badge&labelColor=1a1a2e)
 (https://img.shields.io/badge/BUILDING-JWT_%2B_NextAuth_Systems-6C63FF?style=for-the-badge&labelColor=1a1a2e)
 (https://img.shields.io/badge/BUILDING-Optimized_MongoDB_Schemas-6C63FF?style=for-the-badge&labelColor=1a1a2e)
