@@ -23,71 +23,91 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const muhammad_abdullah = {
-  name:        "Muhammad Abdullah",
-  role:        "Full-Stack Engineer",
-  location:    "Pakistan 🇵🇰",
-  focus:       ["Scalable SaaS Apps", "Clean Architecture", "Production-Ready Code"],
+<div align="center">
 
-  currentWork: "Building full-stack applications with Next.js, TypeScript & MongoDB",
-  learning:    ["System Design", "Clean Architecture Patterns", "Backend Scaling"],
-  collaborateOn: ["SaaS Projects", "Open-Source", "Performance-Focused Web Apps"],
+| 👤 | |
+|---|---|
+| 🧑‍💻 **Name** | Muhammad Abdullah |
+| 🌍 **Location** | Faisalabad, Punjab, Pakistan 🇵🇰 |
+| 💼 **Role** | Full-Stack Engineer |
+| 🎯 **Focus** | Scalable SaaS · Clean Architecture · Production Code |
+| 🧠 **Philosophy** | *"Clean code over clever code — always."* |
+| ⚡ **Fun Fact** | I debug in my dreams 💭 |
+| 📬 **Email** | abdullahworld111@gmail.com |
+| 🔗 **LinkedIn** | [linkedin.com/in/mabdullah555](https://linkedin.com/in/mabdullah555) |
 
-  philosophy:  "I focus on writing clean, maintainable code — not just making things work.",
-  funFact:     "I debug in my dreams 💭",
+</div>
 
-  askMeAbout:  [
-    "Next.js", "MERN Stack", "React", "TypeScript",
-    "API Design", "MongoDB", "Authentication", "Production Apps"
-  ],
-};
-```
+<br/>
+
+<div align="center">
+
+### 🧩 My Developer DNA
+
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-404d59?style=flat-square&logo=express)
+![Redux](https://img.shields.io/badge/-Redux-593d88?style=flat-square&logo=redux&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 What I'm Up To
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-**🔭 Currently Building**
-- Scalable full-stack apps with Next.js & TypeScript
-- Production-ready SaaS platforms with MERN stack
-- Clean REST APIs with proper auth & error handling
+| 🔭 Currently Building | 🌱 Currently Learning |
+|---|---|
+| ![Next.js](https://img.shields.io/badge/-Next.js%20Apps-black?style=flat-square&logo=next.js) Scalable SaaS platforms | ![System Design](https://img.shields.io/badge/-System%20Design-6C63FF?style=flat-square&logo=azuredevops&logoColor=white) Advanced patterns |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript%20APIs-007ACC?style=flat-square&logo=typescript&logoColor=white) Production-grade REST APIs | ![Architecture](https://img.shields.io/badge/-Clean%20Architecture-00D4AA?style=flat-square&logo=buffer&logoColor=white) Hexagonal & DDD |
+| ![MongoDB](https://img.shields.io/badge/-MongoDB%20Schemas-4ea94b?style=flat-square&logo=mongodb&logoColor=white) Optimized data layers | ![Performance](https://img.shields.io/badge/-Performance%20Tuning-FF6C37?style=flat-square&logo=speedtest&logoColor=white) Caching & scaling |
 
-</td>
-<td width="50%">
+<br/>
 
-**🌱 Currently Learning**
-- Advanced System Design patterns
-- Clean & Hexagonal Architecture
-- Full-stack performance optimization
-- Backend scaling & caching strategies
+| 🤝 Open to Collaborate | 💬 Ask Me About |
+|---|---|
+| ![SaaS](https://img.shields.io/badge/-SaaS%20Products-6C63FF?style=flat-square&logo=shopify&logoColor=white) Real-world product dev | ![Next.js](https://img.shields.io/badge/-Next.js%20App%20Router-black?style=flat-square&logo=next.js) Server Actions & SSR |
+| ![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=flat-square&logo=github) Contributions welcome | ![Auth](https://img.shields.io/badge/-JWT%20%26%20NextAuth-000000?style=flat-square&logo=jsonwebtokens) Auth flows |
+| ![Web Apps](https://img.shields.io/badge/-Performance%20Apps-00D4AA?style=flat-square&logo=vercel&logoColor=white) Speed-focused builds | ![MongoDB](https://img.shields.io/badge/-MongoDB%20Design-4ea94b?style=flat-square&logo=mongodb&logoColor=white) Schema & indexing |
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</div>
 
-**🤝 Looking to Collaborate On**
-- Real-world SaaS product development
-- Open-source contributions
-- Performance-focused web applications
+---
 
-</td>
-<td width="50%">
+## 📊 Skill Proficiency
 
-**💬 Ask Me About**
-- Next.js App Router & Server Actions
-- JWT & NextAuth authentication flows
-- MongoDB schema design & optimization
-- Building production-ready REST APIs
+<div align="center">
 
-</td>
-</tr>
-</table>
+![Next.js](https://img.shields.io/badge/Next.js-95%25-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-92%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-88%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-87%25-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-85%25-404d59?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-90%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-70%25-6C63FF?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+</div>
+
+---
+
+## ⚡ Quick Facts
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| 🏗️ **Architecture First** | 🧪 **Test Before Ship** | 🔐 **Security Minded** |
+| I design before I code | I validate logic rigorously | Auth & data safety always |
+| 📦 **Modular Code** | 🚀 **Deploy on Vercel** | 🌙 **Night Owl Coder** |
+| Clean, reusable modules | Seamless CI/CD pipelines | Most productive after midnight |
+
+</div>
 
 ---
 
