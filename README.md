@@ -15,7 +15,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@mianabdullah_80)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahworld111@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=muhammad-abdullah11&label=Profile+Views&color=6C63FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=mabdullah356&label=Profile+Views&color=6C63FF&style=for-the-badge" />
 
 </div>
 
@@ -136,12 +136,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=muhammad-abdullah11&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=muhammad-abdullah11&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=mabdullah356&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=mabdullah356&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=muhammad-abdullah11&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mabdullah356&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
 
@@ -151,7 +151,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=muhammad-abdullah11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mabdullah356&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
@@ -161,7 +161,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-abdullah11&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mabdullah356&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
